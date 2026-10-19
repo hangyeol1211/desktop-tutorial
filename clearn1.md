@@ -1,4 +1,4 @@
-#hello let's go learn c lang
+# hello let's go learn c lang
 ```c
 #include<stdio.h>
 int main()
